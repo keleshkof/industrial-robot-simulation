@@ -1,0 +1,4 @@
+Chilly: 20
+Nutty: 120
+Caramel: 210
+Fudgemallow: 0
